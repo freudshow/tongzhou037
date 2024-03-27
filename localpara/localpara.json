@@ -1,0 +1,22 @@
+{
+  "ModbusAddr": 1,
+  "Dlt645Addr": "112233445568",
+  "Devname": "e9361app",
+  "BlueName": "E9361-D",
+  "TermimalID": "112233445566778899001122",
+  "TermimalESN": "1122334455667788",
+  "Uart1ComDevDesc": "/dev/ttyRS0",
+  "Uart1FrameEventCount": 50,
+  "Uart2ComDevDesc": "/dev/ttyRS1",
+  "Uart2FrameEventCount": 50,
+  "Uart3ComDevDesc": "/dev/ttyRS2",
+  "Uart3FrameEventCount": 50,
+  "Uart4ComDevDesc": "/dev/ttyRS3",
+  "Uart4FrameEventCount": 50,
+  "Uart5ComDevDesc": "/dev/ttyRS4",
+  "Uart5FrameEventCount": 50,
+  "Net0DevDesc": "FE0",
+  "DatabaseMqttTimerPipeNo": 3021,
+  "Net1DevDesc": "ppp0",
+  "Net2DevDesc": "ppp1"
+}

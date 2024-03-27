@@ -1,0 +1,81 @@
+{
+  "CCOTimeOut": 60,
+  "ReadMeterMode": 0,
+  "ReadintervalMs": 1000,
+  "WaitCount": 7,
+  "PortConfig": {
+    "PortType": 0,
+    "PortPara": {
+      "Number": 5,
+      "BaudRate": 9600,
+      "Parity": 1,
+      "DataBits": 8,
+      "Stop": 1
+    },
+    "NetPara": {
+      "NetType": 0,
+      "LocalIP": "192.168.1.101",
+      "LocalPort": 7224,
+      "RemoteIP": "192.168.1.201",
+      "RemotePort": 7225
+    }
+  },
+  "MeterList": [
+    {
+      "Sequence": 0,
+      "Address": "202210081788",
+      "Model": "LTU",
+      "ModbusSeq": 31,
+      "LinkNo": 4,
+      "LinkDevNo": 1
+    },
+    {
+      "Sequence": 1,
+      "Address": "202210081612",
+      "Model": "LTU",
+      "ModbusSeq": 20,
+      "LinkNo": 4,
+      "LinkDevNo": 2
+    },
+    {
+      "Sequence": 2,
+      "Address": "202210081748",
+      "Model": "LTU",
+      "ModbusSeq": 21,
+      "LinkNo": 4,
+      "LinkDevNo": 3
+    },
+    {
+      "Sequence": 3,
+      "Address": "202210081632",
+      "Model": "LTU",
+      "ModbusSeq": 22,
+      "LinkNo": 4,
+      "LinkDevNo": 4
+    },
+    {
+      "Sequence": 4,
+      "Address": "202210081763",
+      "Model": "LTU",
+      "ModbusSeq": 32,
+      "LinkNo": 4,
+      "LinkDevNo": 5
+    },
+    {
+      "Sequence": 5,
+      "Address": "202210081850",
+      "Model": "LTU",
+      "ModbusSeq": 30,
+      "LinkNo": 4,
+      "LinkDevNo": 6
+    },
+    {
+      "Sequence": 6,
+      "Address": "202210081567",
+      "Model": "LTU",
+      "ModbusSeq": 26,
+      "LinkNo": 4,
+      "LinkDevNo": 7
+    }
+  ]
+}
