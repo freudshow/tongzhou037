@@ -1,0 +1,1129 @@
+{
+  "applianceName": "未命名",
+  "TotalYcCount": 112,
+  "TotalYxCount": 0,
+  "TotalYkCount": 0,
+  "TotalDDCount": 0,
+  "dataItem": [
+    {
+      "linkNo": 6,
+      "devNo": 0,
+      "RegNo": 0,
+      "type": 1,
+      "Name": "A相电压",
+      "ModelName": "PhV_phsA",
+      "Ratio": 1.0,
+      "BoardDevAddr": 0
+    },
+    {
+      "linkNo": 6,
+      "devNo": 0,
+      "RegNo": 1,
+      "type": 1,
+      "Name": "B相电压",
+      "ModelName": "PhV_phsB",
+      "Ratio": 1.0,
+      "BoardDevAddr": 0
+    },
+    {
+      "linkNo": 6,
+      "devNo": 0,
+      "RegNo": 2,
+      "type": 1,
+      "Name": "C相电压",
+      "ModelName": "PhV_phsC",
+      "Ratio": 1.0,
+      "BoardDevAddr": 0
+    },
+    {
+      "linkNo": 6,
+      "devNo": 0,
+      "RegNo": 3,
+      "type": 1,
+      "Name": "A相电流",
+      "ModelName": "A_phsA",
+      "Ratio": 1.0,
+      "BoardDevAddr": 0
+    },
+    {
+      "linkNo": 6,
+      "devNo": 0,
+      "RegNo": 4,
+      "type": 1,
+      "Name": "B相电流",
+      "ModelName": "A_phsB",
+      "Ratio": 1.0,
+      "BoardDevAddr": 0
+    },
+    {
+      "linkNo": 6,
+      "devNo": 0,
+      "RegNo": 5,
+      "type": 1,
+      "Name": "C相电流",
+      "ModelName": "A_phsC",
+      "Ratio": 1.0,
+      "BoardDevAddr": 0
+    },
+    {
+      "linkNo": 6,
+      "devNo": 0,
+      "RegNo": 6,
+      "type": 1,
+      "Name": "功率因数",
+      "ModelName": "TotPF",
+      "Ratio": 1.0,
+      "BoardDevAddr": 0
+    },
+    {
+      "linkNo": 6,
+      "devNo": 0,
+      "RegNo": 7,
+      "type": 1,
+      "Name": "有功功率",
+      "ModelName": "TotW",
+      "Ratio": 1.0,
+      "BoardDevAddr": 0
+    },
+    {
+      "linkNo": 6,
+      "devNo": 0,
+      "RegNo": 8,
+      "type": 1,
+      "Name": "视在功率",
+      "ModelName": "TotVA",
+      "Ratio": 1.0,
+      "BoardDevAddr": 0
+    },
+    {
+      "linkNo": 6,
+      "devNo": 0,
+      "RegNo": 9,
+      "type": 1,
+      "Name": "月发电量",
+      "ModelName": "MWh",
+      "Ratio": 1.0,
+      "BoardDevAddr": 0
+    },
+    {
+      "linkNo": 6,
+      "devNo": 0,
+      "RegNo": 10,
+      "type": 1,
+      "Name": "年发电量",
+      "ModelName": "YWh",
+      "Ratio": 1.0,
+      "BoardDevAddr": 0
+    },
+    {
+      "linkNo": 6,
+      "devNo": 0,
+      "RegNo": 11,
+      "type": 1,
+      "Name": "总发电量",
+      "ModelName": "TotWh",
+      "Ratio": 1.0,
+      "BoardDevAddr": 0
+    },
+    {
+      "linkNo": 6,
+      "devNo": 0,
+      "RegNo": 12,
+      "type": 1,
+      "Name": "日发电量",
+      "ModelName": "DWh",
+      "Ratio": 1.0,
+      "BoardDevAddr": 0
+    },
+    {
+      "linkNo": 6,
+      "devNo": 0,
+      "RegNo": 13,
+      "type": 1,
+      "Name": "A相有功",
+      "ModelName": null,
+      "Ratio": 1.0,
+      "BoardDevAddr": 0
+    },
+    {
+      "linkNo": 6,
+      "devNo": 0,
+      "RegNo": 14,
+      "type": 1,
+      "Name": "B相有功",
+      "ModelName": null,
+      "Ratio": 1.0,
+      "BoardDevAddr": 0
+    },
+    {
+      "linkNo": 6,
+      "devNo": 0,
+      "RegNo": 15,
+      "type": 1,
+      "Name": "C相有功",
+      "ModelName": null,
+      "Ratio": 1.0,
+      "BoardDevAddr": 0
+    },
+    {
+      "linkNo": 6,
+      "devNo": 1,
+      "RegNo": 0,
+      "type": 1,
+      "Name": "A相电压",
+      "ModelName": "PhV_phsA",
+      "Ratio": 1.0,
+      "BoardDevAddr": 0
+    },
+    {
+      "linkNo": 6,
+      "devNo": 1,
+      "RegNo": 1,
+      "type": 1,
+      "Name": "B相电压",
+      "ModelName": "PhV_phsB",
+      "Ratio": 1.0,
+      "BoardDevAddr": 0
+    },
+    {
+      "linkNo": 6,
+      "devNo": 1,
+      "RegNo": 2,
+      "type": 1,
+      "Name": "C相电压",
+      "ModelName": "PhV_phsC",
+      "Ratio": 1.0,
+      "BoardDevAddr": 0
+    },
+    {
+      "linkNo": 6,
+      "devNo": 1,
+      "RegNo": 3,
+      "type": 1,
+      "Name": "A相电流",
+      "ModelName": "A_phsA",
+      "Ratio": 1.0,
+      "BoardDevAddr": 0
+    },
+    {
+      "linkNo": 6,
+      "devNo": 1,
+      "RegNo": 4,
+      "type": 1,
+      "Name": "B相电流",
+      "ModelName": "A_phsB",
+      "Ratio": 1.0,
+      "BoardDevAddr": 0
+    },
+    {
+      "linkNo": 6,
+      "devNo": 1,
+      "RegNo": 5,
+      "type": 1,
+      "Name": "C相电流",
+      "ModelName": "A_phsC",
+      "Ratio": 1.0,
+      "BoardDevAddr": 0
+    },
+    {
+      "linkNo": 6,
+      "devNo": 1,
+      "RegNo": 6,
+      "type": 1,
+      "Name": "功率因数",
+      "ModelName": "TotPF",
+      "Ratio": 1.0,
+      "BoardDevAddr": 0
+    },
+    {
+      "linkNo": 6,
+      "devNo": 1,
+      "RegNo": 7,
+      "type": 1,
+      "Name": "有功功率",
+      "ModelName": "TotW",
+      "Ratio": 1.0,
+      "BoardDevAddr": 0
+    },
+    {
+      "linkNo": 6,
+      "devNo": 1,
+      "RegNo": 8,
+      "type": 1,
+      "Name": "视在功率",
+      "ModelName": "TotVA",
+      "Ratio": 1.0,
+      "BoardDevAddr": 0
+    },
+    {
+      "linkNo": 6,
+      "devNo": 1,
+      "RegNo": 9,
+      "type": 1,
+      "Name": "月发电量",
+      "ModelName": "MWh",
+      "Ratio": 1.0,
+      "BoardDevAddr": 0
+    },
+    {
+      "linkNo": 6,
+      "devNo": 1,
+      "RegNo": 10,
+      "type": 1,
+      "Name": "年发电量",
+      "ModelName": "YWh",
+      "Ratio": 1.0,
+      "BoardDevAddr": 0
+    },
+    {
+      "linkNo": 6,
+      "devNo": 1,
+      "RegNo": 11,
+      "type": 1,
+      "Name": "总发电量",
+      "ModelName": "TotWh",
+      "Ratio": 1.0,
+      "BoardDevAddr": 0
+    },
+    {
+      "linkNo": 6,
+      "devNo": 1,
+      "RegNo": 12,
+      "type": 1,
+      "Name": "日发电量",
+      "ModelName": "DWh",
+      "Ratio": 1.0,
+      "BoardDevAddr": 0
+    },
+    {
+      "linkNo": 6,
+      "devNo": 1,
+      "RegNo": 13,
+      "type": 1,
+      "Name": "A相有功",
+      "ModelName": null,
+      "Ratio": 1.0,
+      "BoardDevAddr": 0
+    },
+    {
+      "linkNo": 6,
+      "devNo": 1,
+      "RegNo": 14,
+      "type": 1,
+      "Name": "B相有功",
+      "ModelName": null,
+      "Ratio": 1.0,
+      "BoardDevAddr": 0
+    },
+    {
+      "linkNo": 6,
+      "devNo": 1,
+      "RegNo": 15,
+      "type": 1,
+      "Name": "C相有功",
+      "ModelName": null,
+      "Ratio": 1.0,
+      "BoardDevAddr": 0
+    },
+    {
+      "linkNo": 6,
+      "devNo": 2,
+      "RegNo": 0,
+      "type": 1,
+      "Name": "A相电压",
+      "ModelName": "PhV_phsA",
+      "Ratio": 1.0,
+      "BoardDevAddr": 0
+    },
+    {
+      "linkNo": 6,
+      "devNo": 2,
+      "RegNo": 1,
+      "type": 1,
+      "Name": "B相电压",
+      "ModelName": "PhV_phsB",
+      "Ratio": 1.0,
+      "BoardDevAddr": 0
+    },
+    {
+      "linkNo": 6,
+      "devNo": 2,
+      "RegNo": 2,
+      "type": 1,
+      "Name": "C相电压",
+      "ModelName": "PhV_phsC",
+      "Ratio": 1.0,
+      "BoardDevAddr": 0
+    },
+    {
+      "linkNo": 6,
+      "devNo": 2,
+      "RegNo": 3,
+      "type": 1,
+      "Name": "A相电流",
+      "ModelName": "A_phsA",
+      "Ratio": 1.0,
+      "BoardDevAddr": 0
+    },
+    {
+      "linkNo": 6,
+      "devNo": 2,
+      "RegNo": 4,
+      "type": 1,
+      "Name": "B相电流",
+      "ModelName": "A_phsB",
+      "Ratio": 1.0,
+      "BoardDevAddr": 0
+    },
+    {
+      "linkNo": 6,
+      "devNo": 2,
+      "RegNo": 5,
+      "type": 1,
+      "Name": "C相电流",
+      "ModelName": "A_phsC",
+      "Ratio": 1.0,
+      "BoardDevAddr": 0
+    },
+    {
+      "linkNo": 6,
+      "devNo": 2,
+      "RegNo": 6,
+      "type": 1,
+      "Name": "功率因数",
+      "ModelName": "TotPF",
+      "Ratio": 1.0,
+      "BoardDevAddr": 0
+    },
+    {
+      "linkNo": 6,
+      "devNo": 2,
+      "RegNo": 7,
+      "type": 1,
+      "Name": "有功功率",
+      "ModelName": "TotW",
+      "Ratio": 1.0,
+      "BoardDevAddr": 0
+    },
+    {
+      "linkNo": 6,
+      "devNo": 2,
+      "RegNo": 8,
+      "type": 1,
+      "Name": "视在功率",
+      "ModelName": "TotVA",
+      "Ratio": 1.0,
+      "BoardDevAddr": 0
+    },
+    {
+      "linkNo": 6,
+      "devNo": 2,
+      "RegNo": 9,
+      "type": 1,
+      "Name": "月发电量",
+      "ModelName": "MWh",
+      "Ratio": 1.0,
+      "BoardDevAddr": 0
+    },
+    {
+      "linkNo": 6,
+      "devNo": 2,
+      "RegNo": 10,
+      "type": 1,
+      "Name": "年发电量",
+      "ModelName": "YWh",
+      "Ratio": 1.0,
+      "BoardDevAddr": 0
+    },
+    {
+      "linkNo": 6,
+      "devNo": 2,
+      "RegNo": 11,
+      "type": 1,
+      "Name": "总发电量",
+      "ModelName": "TotWh",
+      "Ratio": 1.0,
+      "BoardDevAddr": 0
+    },
+    {
+      "linkNo": 6,
+      "devNo": 2,
+      "RegNo": 12,
+      "type": 1,
+      "Name": "日发电量",
+      "ModelName": "DWh",
+      "Ratio": 1.0,
+      "BoardDevAddr": 0
+    },
+    {
+      "linkNo": 6,
+      "devNo": 2,
+      "RegNo": 13,
+      "type": 1,
+      "Name": "A相有功",
+      "ModelName": null,
+      "Ratio": 1.0,
+      "BoardDevAddr": 0
+    },
+    {
+      "linkNo": 6,
+      "devNo": 2,
+      "RegNo": 14,
+      "type": 1,
+      "Name": "B相有功",
+      "ModelName": null,
+      "Ratio": 1.0,
+      "BoardDevAddr": 0
+    },
+    {
+      "linkNo": 6,
+      "devNo": 2,
+      "RegNo": 15,
+      "type": 1,
+      "Name": "C相有功",
+      "ModelName": null,
+      "Ratio": 1.0,
+      "BoardDevAddr": 0
+    },
+    {
+      "linkNo": 6,
+      "devNo": 3,
+      "RegNo": 0,
+      "type": 1,
+      "Name": "A相电压",
+      "ModelName": "PhV_phsA",
+      "Ratio": 1.0,
+      "BoardDevAddr": 0
+    },
+    {
+      "linkNo": 6,
+      "devNo": 3,
+      "RegNo": 1,
+      "type": 1,
+      "Name": "B相电压",
+      "ModelName": "PhV_phsB",
+      "Ratio": 1.0,
+      "BoardDevAddr": 0
+    },
+    {
+      "linkNo": 6,
+      "devNo": 3,
+      "RegNo": 2,
+      "type": 1,
+      "Name": "C相电压",
+      "ModelName": "PhV_phsC",
+      "Ratio": 1.0,
+      "BoardDevAddr": 0
+    },
+    {
+      "linkNo": 6,
+      "devNo": 3,
+      "RegNo": 3,
+      "type": 1,
+      "Name": "A相电流",
+      "ModelName": "A_phsA",
+      "Ratio": 1.0,
+      "BoardDevAddr": 0
+    },
+    {
+      "linkNo": 6,
+      "devNo": 3,
+      "RegNo": 4,
+      "type": 1,
+      "Name": "B相电流",
+      "ModelName": "A_phsB",
+      "Ratio": 1.0,
+      "BoardDevAddr": 0
+    },
+    {
+      "linkNo": 6,
+      "devNo": 3,
+      "RegNo": 5,
+      "type": 1,
+      "Name": "C相电流",
+      "ModelName": "A_phsC",
+      "Ratio": 1.0,
+      "BoardDevAddr": 0
+    },
+    {
+      "linkNo": 6,
+      "devNo": 3,
+      "RegNo": 6,
+      "type": 1,
+      "Name": "功率因数",
+      "ModelName": "TotPF",
+      "Ratio": 1.0,
+      "BoardDevAddr": 0
+    },
+    {
+      "linkNo": 6,
+      "devNo": 3,
+      "RegNo": 7,
+      "type": 1,
+      "Name": "有功功率",
+      "ModelName": "TotW",
+      "Ratio": 1.0,
+      "BoardDevAddr": 0
+    },
+    {
+      "linkNo": 6,
+      "devNo": 3,
+      "RegNo": 8,
+      "type": 1,
+      "Name": "视在功率",
+      "ModelName": "TotVA",
+      "Ratio": 1.0,
+      "BoardDevAddr": 0
+    },
+    {
+      "linkNo": 6,
+      "devNo": 3,
+      "RegNo": 9,
+      "type": 1,
+      "Name": "月发电量",
+      "ModelName": "MWh",
+      "Ratio": 1.0,
+      "BoardDevAddr": 0
+    },
+    {
+      "linkNo": 6,
+      "devNo": 3,
+      "RegNo": 10,
+      "type": 1,
+      "Name": "年发电量",
+      "ModelName": "YWh",
+      "Ratio": 1.0,
+      "BoardDevAddr": 0
+    },
+    {
+      "linkNo": 6,
+      "devNo": 3,
+      "RegNo": 11,
+      "type": 1,
+      "Name": "总发电量",
+      "ModelName": "TotWh",
+      "Ratio": 1.0,
+      "BoardDevAddr": 0
+    },
+    {
+      "linkNo": 6,
+      "devNo": 3,
+      "RegNo": 12,
+      "type": 1,
+      "Name": "日发电量",
+      "ModelName": "DWh",
+      "Ratio": 1.0,
+      "BoardDevAddr": 0
+    },
+    {
+      "linkNo": 6,
+      "devNo": 3,
+      "RegNo": 13,
+      "type": 1,
+      "Name": "A相有功",
+      "ModelName": null,
+      "Ratio": 1.0,
+      "BoardDevAddr": 0
+    },
+    {
+      "linkNo": 6,
+      "devNo": 3,
+      "RegNo": 14,
+      "type": 1,
+      "Name": "B相有功",
+      "ModelName": null,
+      "Ratio": 1.0,
+      "BoardDevAddr": 0
+    },
+    {
+      "linkNo": 6,
+      "devNo": 3,
+      "RegNo": 15,
+      "type": 1,
+      "Name": "C相有功",
+      "ModelName": null,
+      "Ratio": 1.0,
+      "BoardDevAddr": 0
+    },
+    {
+      "linkNo": 6,
+      "devNo": 4,
+      "RegNo": 0,
+      "type": 1,
+      "Name": "A相电压",
+      "ModelName": "PhV_phsA",
+      "Ratio": 1.0,
+      "BoardDevAddr": 0
+    },
+    {
+      "linkNo": 6,
+      "devNo": 4,
+      "RegNo": 1,
+      "type": 1,
+      "Name": "B相电压",
+      "ModelName": "PhV_phsB",
+      "Ratio": 1.0,
+      "BoardDevAddr": 0
+    },
+    {
+      "linkNo": 6,
+      "devNo": 4,
+      "RegNo": 2,
+      "type": 1,
+      "Name": "C相电压",
+      "ModelName": "PhV_phsC",
+      "Ratio": 1.0,
+      "BoardDevAddr": 0
+    },
+    {
+      "linkNo": 6,
+      "devNo": 4,
+      "RegNo": 3,
+      "type": 1,
+      "Name": "A相电流",
+      "ModelName": "A_phsA",
+      "Ratio": 1.0,
+      "BoardDevAddr": 0
+    },
+    {
+      "linkNo": 6,
+      "devNo": 4,
+      "RegNo": 4,
+      "type": 1,
+      "Name": "B相电流",
+      "ModelName": "A_phsB",
+      "Ratio": 1.0,
+      "BoardDevAddr": 0
+    },
+    {
+      "linkNo": 6,
+      "devNo": 4,
+      "RegNo": 5,
+      "type": 1,
+      "Name": "C相电流",
+      "ModelName": "A_phsC",
+      "Ratio": 1.0,
+      "BoardDevAddr": 0
+    },
+    {
+      "linkNo": 6,
+      "devNo": 4,
+      "RegNo": 6,
+      "type": 1,
+      "Name": "功率因数",
+      "ModelName": "TotPF",
+      "Ratio": 1.0,
+      "BoardDevAddr": 0
+    },
+    {
+      "linkNo": 6,
+      "devNo": 4,
+      "RegNo": 7,
+      "type": 1,
+      "Name": "有功功率",
+      "ModelName": "TotW",
+      "Ratio": 1.0,
+      "BoardDevAddr": 0
+    },
+    {
+      "linkNo": 6,
+      "devNo": 4,
+      "RegNo": 8,
+      "type": 1,
+      "Name": "视在功率",
+      "ModelName": "TotVA",
+      "Ratio": 1.0,
+      "BoardDevAddr": 0
+    },
+    {
+      "linkNo": 6,
+      "devNo": 4,
+      "RegNo": 9,
+      "type": 1,
+      "Name": "月发电量",
+      "ModelName": "MWh",
+      "Ratio": 1.0,
+      "BoardDevAddr": 0
+    },
+    {
+      "linkNo": 6,
+      "devNo": 4,
+      "RegNo": 10,
+      "type": 1,
+      "Name": "年发电量",
+      "ModelName": "YWh",
+      "Ratio": 1.0,
+      "BoardDevAddr": 0
+    },
+    {
+      "linkNo": 6,
+      "devNo": 4,
+      "RegNo": 11,
+      "type": 1,
+      "Name": "总发电量",
+      "ModelName": "TotWh",
+      "Ratio": 1.0,
+      "BoardDevAddr": 0
+    },
+    {
+      "linkNo": 6,
+      "devNo": 4,
+      "RegNo": 12,
+      "type": 1,
+      "Name": "日发电量",
+      "ModelName": "DWh",
+      "Ratio": 1.0,
+      "BoardDevAddr": 0
+    },
+    {
+      "linkNo": 6,
+      "devNo": 4,
+      "RegNo": 13,
+      "type": 1,
+      "Name": "A相有功",
+      "ModelName": null,
+      "Ratio": 1.0,
+      "BoardDevAddr": 0
+    },
+    {
+      "linkNo": 6,
+      "devNo": 4,
+      "RegNo": 14,
+      "type": 1,
+      "Name": "B相有功",
+      "ModelName": null,
+      "Ratio": 1.0,
+      "BoardDevAddr": 0
+    },
+    {
+      "linkNo": 6,
+      "devNo": 4,
+      "RegNo": 15,
+      "type": 1,
+      "Name": "C相有功",
+      "ModelName": null,
+      "Ratio": 1.0,
+      "BoardDevAddr": 0
+    },
+    {
+      "linkNo": 6,
+      "devNo": 5,
+      "RegNo": 0,
+      "type": 1,
+      "Name": "A相电压",
+      "ModelName": "PhV_phsA",
+      "Ratio": 1.0,
+      "BoardDevAddr": 0
+    },
+    {
+      "linkNo": 6,
+      "devNo": 5,
+      "RegNo": 1,
+      "type": 1,
+      "Name": "B相电压",
+      "ModelName": "PhV_phsB",
+      "Ratio": 1.0,
+      "BoardDevAddr": 0
+    },
+    {
+      "linkNo": 6,
+      "devNo": 5,
+      "RegNo": 2,
+      "type": 1,
+      "Name": "C相电压",
+      "ModelName": "PhV_phsC",
+      "Ratio": 1.0,
+      "BoardDevAddr": 0
+    },
+    {
+      "linkNo": 6,
+      "devNo": 5,
+      "RegNo": 3,
+      "type": 1,
+      "Name": "A相电流",
+      "ModelName": "A_phsA",
+      "Ratio": 1.0,
+      "BoardDevAddr": 0
+    },
+    {
+      "linkNo": 6,
+      "devNo": 5,
+      "RegNo": 4,
+      "type": 1,
+      "Name": "B相电流",
+      "ModelName": "A_phsB",
+      "Ratio": 1.0,
+      "BoardDevAddr": 0
+    },
+    {
+      "linkNo": 6,
+      "devNo": 5,
+      "RegNo": 5,
+      "type": 1,
+      "Name": "C相电流",
+      "ModelName": "A_phsC",
+      "Ratio": 1.0,
+      "BoardDevAddr": 0
+    },
+    {
+      "linkNo": 6,
+      "devNo": 5,
+      "RegNo": 6,
+      "type": 1,
+      "Name": "功率因数",
+      "ModelName": "TotPF",
+      "Ratio": 1.0,
+      "BoardDevAddr": 0
+    },
+    {
+      "linkNo": 6,
+      "devNo": 5,
+      "RegNo": 7,
+      "type": 1,
+      "Name": "有功功率",
+      "ModelName": "TotW",
+      "Ratio": 1.0,
+      "BoardDevAddr": 0
+    },
+    {
+      "linkNo": 6,
+      "devNo": 5,
+      "RegNo": 8,
+      "type": 1,
+      "Name": "视在功率",
+      "ModelName": "TotVA",
+      "Ratio": 1.0,
+      "BoardDevAddr": 0
+    },
+    {
+      "linkNo": 6,
+      "devNo": 5,
+      "RegNo": 9,
+      "type": 1,
+      "Name": "月发电量",
+      "ModelName": "MWh",
+      "Ratio": 1.0,
+      "BoardDevAddr": 0
+    },
+    {
+      "linkNo": 6,
+      "devNo": 5,
+      "RegNo": 10,
+      "type": 1,
+      "Name": "年发电量",
+      "ModelName": "YWh",
+      "Ratio": 1.0,
+      "BoardDevAddr": 0
+    },
+    {
+      "linkNo": 6,
+      "devNo": 5,
+      "RegNo": 11,
+      "type": 1,
+      "Name": "总发电量",
+      "ModelName": "TotWh",
+      "Ratio": 1.0,
+      "BoardDevAddr": 0
+    },
+    {
+      "linkNo": 6,
+      "devNo": 5,
+      "RegNo": 12,
+      "type": 1,
+      "Name": "日发电量",
+      "ModelName": "DWh",
+      "Ratio": 1.0,
+      "BoardDevAddr": 0
+    },
+    {
+      "linkNo": 6,
+      "devNo": 5,
+      "RegNo": 13,
+      "type": 1,
+      "Name": "A相有功",
+      "ModelName": null,
+      "Ratio": 1.0,
+      "BoardDevAddr": 0
+    },
+    {
+      "linkNo": 6,
+      "devNo": 5,
+      "RegNo": 14,
+      "type": 1,
+      "Name": "B相有功",
+      "ModelName": null,
+      "Ratio": 1.0,
+      "BoardDevAddr": 0
+    },
+    {
+      "linkNo": 6,
+      "devNo": 5,
+      "RegNo": 15,
+      "type": 1,
+      "Name": "C相有功",
+      "ModelName": null,
+      "Ratio": 1.0,
+      "BoardDevAddr": 0
+    },
+    {
+      "linkNo": 6,
+      "devNo": 6,
+      "RegNo": 0,
+      "type": 1,
+      "Name": "A相电压",
+      "ModelName": "PhV_phsA",
+      "Ratio": 1.0,
+      "BoardDevAddr": 0
+    },
+    {
+      "linkNo": 6,
+      "devNo": 6,
+      "RegNo": 1,
+      "type": 1,
+      "Name": "B相电压",
+      "ModelName": "PhV_phsB",
+      "Ratio": 1.0,
+      "BoardDevAddr": 0
+    },
+    {
+      "linkNo": 6,
+      "devNo": 6,
+      "RegNo": 2,
+      "type": 1,
+      "Name": "C相电压",
+      "ModelName": "PhV_phsC",
+      "Ratio": 1.0,
+      "BoardDevAddr": 0
+    },
+    {
+      "linkNo": 6,
+      "devNo": 6,
+      "RegNo": 3,
+      "type": 1,
+      "Name": "A相电流",
+      "ModelName": "A_phsA",
+      "Ratio": 1.0,
+      "BoardDevAddr": 0
+    },
+    {
+      "linkNo": 6,
+      "devNo": 6,
+      "RegNo": 4,
+      "type": 1,
+      "Name": "B相电流",
+      "ModelName": "A_phsB",
+      "Ratio": 1.0,
+      "BoardDevAddr": 0
+    },
+    {
+      "linkNo": 6,
+      "devNo": 6,
+      "RegNo": 5,
+      "type": 1,
+      "Name": "C相电流",
+      "ModelName": "A_phsC",
+      "Ratio": 1.0,
+      "BoardDevAddr": 0
+    },
+    {
+      "linkNo": 6,
+      "devNo": 6,
+      "RegNo": 6,
+      "type": 1,
+      "Name": "功率因数",
+      "ModelName": "TotPF",
+      "Ratio": 1.0,
+      "BoardDevAddr": 0
+    },
+    {
+      "linkNo": 6,
+      "devNo": 6,
+      "RegNo": 7,
+      "type": 1,
+      "Name": "有功功率",
+      "ModelName": "TotW",
+      "Ratio": 1.0,
+      "BoardDevAddr": 0
+    },
+    {
+      "linkNo": 6,
+      "devNo": 6,
+      "RegNo": 8,
+      "type": 1,
+      "Name": "视在功率",
+      "ModelName": "TotVA",
+      "Ratio": 1.0,
+      "BoardDevAddr": 0
+    },
+    {
+      "linkNo": 6,
+      "devNo": 6,
+      "RegNo": 9,
+      "type": 1,
+      "Name": "月发电量",
+      "ModelName": "MWh",
+      "Ratio": 1.0,
+      "BoardDevAddr": 0
+    },
+    {
+      "linkNo": 6,
+      "devNo": 6,
+      "RegNo": 10,
+      "type": 1,
+      "Name": "年发电量",
+      "ModelName": "YWh",
+      "Ratio": 1.0,
+      "BoardDevAddr": 0
+    },
+    {
+      "linkNo": 6,
+      "devNo": 6,
+      "RegNo": 11,
+      "type": 1,
+      "Name": "总发电量",
+      "ModelName": "TotWh",
+      "Ratio": 1.0,
+      "BoardDevAddr": 0
+    },
+    {
+      "linkNo": 6,
+      "devNo": 6,
+      "RegNo": 12,
+      "type": 1,
+      "Name": "日发电量",
+      "ModelName": "DWh",
+      "Ratio": 1.0,
+      "BoardDevAddr": 0
+    },
+    {
+      "linkNo": 6,
+      "devNo": 6,
+      "RegNo": 13,
+      "type": 1,
+      "Name": "A相有功",
+      "ModelName": null,
+      "Ratio": 1.0,
+      "BoardDevAddr": 0
+    },
+    {
+      "linkNo": 6,
+      "devNo": 6,
+      "RegNo": 14,
+      "type": 1,
+      "Name": "B相有功",
+      "ModelName": null,
+      "Ratio": 1.0,
+      "BoardDevAddr": 0
+    },
+    {
+      "linkNo": 6,
+      "devNo": 6,
+      "RegNo": 15,
+      "type": 1,
+      "Name": "C相有功",
+      "ModelName": null,
+      "Ratio": 1.0,
+      "BoardDevAddr": 0
+    }
+  ]
+}
