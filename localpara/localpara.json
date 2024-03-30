@@ -1,6 +1,6 @@
 {
   "ModbusAddr": 1,
-  "Dlt645Addr": "112233445568",
+  "Dlt645Addr": "117733445568",
   "Devname": "e9361app",
   "BlueName": "E9361-D",
   "TermimalID": "112233445566778899001122",
