@@ -9,7 +9,7 @@
     "AppName": "e9361app",
     "AppDesc": "e9361app"
   },
-  "devListCount": 7,
+  "devListCount": 13,
   "devlist": [
     {
       "devNo": 0,
@@ -629,6 +629,528 @@
         {
           "RtdbNo": 346,
           "Desc": "设备[6]-日发电量-实时库号[346]",
+          "DataType": 1,
+          "ModeName": "DWh"
+        }
+      ]
+    },
+    {
+      "devNo": 7,
+      "linkNo": 6,
+      "port": "1",
+      "addr": "27",
+      "model": "EndTerminal",
+      "desc": "末端分支终端",
+      "datacount": 13,
+      "data": [
+        {
+          "RtdbNo": 350,
+          "Desc": "设备[7]-A相电压-实时库号[350]",
+          "DataType": 1,
+          "ModeName": "PhV_phsA"
+        },
+        {
+          "RtdbNo": 351,
+          "Desc": "设备[7]-B相电压-实时库号[351]",
+          "DataType": 1,
+          "ModeName": "PhV_phsB"
+        },
+        {
+          "RtdbNo": 352,
+          "Desc": "设备[7]-C相电压-实时库号[352]",
+          "DataType": 1,
+          "ModeName": "PhV_phsC"
+        },
+        {
+          "RtdbNo": 353,
+          "Desc": "设备[7]-A相电流-实时库号[353]",
+          "DataType": 1,
+          "ModeName": "A_phsA"
+        },
+        {
+          "RtdbNo": 354,
+          "Desc": "设备[7]-B相电流-实时库号[354]",
+          "DataType": 1,
+          "ModeName": "A_phsB"
+        },
+        {
+          "RtdbNo": 355,
+          "Desc": "设备[7]-C相电流-实时库号[355]",
+          "DataType": 1,
+          "ModeName": "A_phsC"
+        },
+        {
+          "RtdbNo": 356,
+          "Desc": "设备[7]-功率因数-实时库号[356]",
+          "DataType": 1,
+          "ModeName": "TotPF"
+        },
+        {
+          "RtdbNo": 357,
+          "Desc": "设备[7]-有功功率-实时库号[357]",
+          "DataType": 1,
+          "ModeName": "TotW"
+        },
+        {
+          "RtdbNo": 358,
+          "Desc": "设备[7]-视在功率-实时库号[358]",
+          "DataType": 1,
+          "ModeName": "TotVA"
+        },
+        {
+          "RtdbNo": 359,
+          "Desc": "设备[7]-月发电量-实时库号[359]",
+          "DataType": 1,
+          "ModeName": "MWh"
+        },
+        {
+          "RtdbNo": 360,
+          "Desc": "设备[7]-年发电量-实时库号[360]",
+          "DataType": 1,
+          "ModeName": "YWh"
+        },
+        {
+          "RtdbNo": 361,
+          "Desc": "设备[7]-总发电量-实时库号[361]",
+          "DataType": 1,
+          "ModeName": "TotWh"
+        },
+        {
+          "RtdbNo": 362,
+          "Desc": "设备[7]-日发电量-实时库号[362]",
+          "DataType": 1,
+          "ModeName": "DWh"
+        }
+      ]
+    },
+    {
+      "devNo": 8,
+      "linkNo": 6,
+      "port": "1",
+      "addr": "19",
+      "model": "EndTerminal",
+      "desc": "末端分支终端",
+      "datacount": 13,
+      "data": [
+        {
+          "RtdbNo": 366,
+          "Desc": "设备[8]-A相电压-实时库号[366]",
+          "DataType": 1,
+          "ModeName": "PhV_phsA"
+        },
+        {
+          "RtdbNo": 367,
+          "Desc": "设备[8]-B相电压-实时库号[367]",
+          "DataType": 1,
+          "ModeName": "PhV_phsB"
+        },
+        {
+          "RtdbNo": 368,
+          "Desc": "设备[8]-C相电压-实时库号[368]",
+          "DataType": 1,
+          "ModeName": "PhV_phsC"
+        },
+        {
+          "RtdbNo": 369,
+          "Desc": "设备[8]-A相电流-实时库号[369]",
+          "DataType": 1,
+          "ModeName": "A_phsA"
+        },
+        {
+          "RtdbNo": 370,
+          "Desc": "设备[8]-B相电流-实时库号[370]",
+          "DataType": 1,
+          "ModeName": "A_phsB"
+        },
+        {
+          "RtdbNo": 371,
+          "Desc": "设备[8]-C相电流-实时库号[371]",
+          "DataType": 1,
+          "ModeName": "A_phsC"
+        },
+        {
+          "RtdbNo": 372,
+          "Desc": "设备[8]-功率因数-实时库号[372]",
+          "DataType": 1,
+          "ModeName": "TotPF"
+        },
+        {
+          "RtdbNo": 373,
+          "Desc": "设备[8]-有功功率-实时库号[373]",
+          "DataType": 1,
+          "ModeName": "TotW"
+        },
+        {
+          "RtdbNo": 374,
+          "Desc": "设备[8]-视在功率-实时库号[374]",
+          "DataType": 1,
+          "ModeName": "TotVA"
+        },
+        {
+          "RtdbNo": 375,
+          "Desc": "设备[8]-月发电量-实时库号[375]",
+          "DataType": 1,
+          "ModeName": "MWh"
+        },
+        {
+          "RtdbNo": 376,
+          "Desc": "设备[8]-年发电量-实时库号[376]",
+          "DataType": 1,
+          "ModeName": "YWh"
+        },
+        {
+          "RtdbNo": 377,
+          "Desc": "设备[8]-总发电量-实时库号[377]",
+          "DataType": 1,
+          "ModeName": "TotWh"
+        },
+        {
+          "RtdbNo": 378,
+          "Desc": "设备[8]-日发电量-实时库号[378]",
+          "DataType": 1,
+          "ModeName": "DWh"
+        }
+      ]
+    },
+    {
+      "devNo": 9,
+      "linkNo": 6,
+      "port": "1",
+      "addr": "29",
+      "model": "EndTerminal",
+      "desc": "末端分支终端",
+      "datacount": 11,
+      "data": [
+        {
+          "RtdbNo": 384,
+          "Desc": "设备[9]-C相电压-实时库号[384]",
+          "DataType": 1,
+          "ModeName": "PhV_phsC"
+        },
+        {
+          "RtdbNo": 385,
+          "Desc": "设备[9]-A相电流-实时库号[385]",
+          "DataType": 1,
+          "ModeName": "A_phsA"
+        },
+        {
+          "RtdbNo": 386,
+          "Desc": "设备[9]-B相电流-实时库号[386]",
+          "DataType": 1,
+          "ModeName": "A_phsB"
+        },
+        {
+          "RtdbNo": 387,
+          "Desc": "设备[9]-C相电流-实时库号[387]",
+          "DataType": 1,
+          "ModeName": "A_phsC"
+        },
+        {
+          "RtdbNo": 388,
+          "Desc": "设备[9]-功率因数-实时库号[388]",
+          "DataType": 1,
+          "ModeName": "TotPF"
+        },
+        {
+          "RtdbNo": 389,
+          "Desc": "设备[9]-有功功率-实时库号[389]",
+          "DataType": 1,
+          "ModeName": "TotW"
+        },
+        {
+          "RtdbNo": 390,
+          "Desc": "设备[9]-视在功率-实时库号[390]",
+          "DataType": 1,
+          "ModeName": "TotVA"
+        },
+        {
+          "RtdbNo": 391,
+          "Desc": "设备[9]-月发电量-实时库号[391]",
+          "DataType": 1,
+          "ModeName": "MWh"
+        },
+        {
+          "RtdbNo": 392,
+          "Desc": "设备[9]-年发电量-实时库号[392]",
+          "DataType": 1,
+          "ModeName": "YWh"
+        },
+        {
+          "RtdbNo": 393,
+          "Desc": "设备[9]-总发电量-实时库号[393]",
+          "DataType": 1,
+          "ModeName": "TotWh"
+        },
+        {
+          "RtdbNo": 394,
+          "Desc": "设备[9]-日发电量-实时库号[394]",
+          "DataType": 1,
+          "ModeName": "DWh"
+        }
+      ]
+    },
+    {
+      "devNo": 10,
+      "linkNo": 6,
+      "port": "1",
+      "addr": "24",
+      "model": "EndTerminal",
+      "desc": "末端分支终端",
+      "datacount": 13,
+      "data": [
+        {
+          "RtdbNo": 398,
+          "Desc": "设备[10]-A相电压-实时库号[398]",
+          "DataType": 1,
+          "ModeName": "PhV_phsA"
+        },
+        {
+          "RtdbNo": 399,
+          "Desc": "设备[10]-B相电压-实时库号[399]",
+          "DataType": 1,
+          "ModeName": "PhV_phsB"
+        },
+        {
+          "RtdbNo": 400,
+          "Desc": "设备[10]-C相电压-实时库号[400]",
+          "DataType": 1,
+          "ModeName": "PhV_phsC"
+        },
+        {
+          "RtdbNo": 401,
+          "Desc": "设备[10]-A相电流-实时库号[401]",
+          "DataType": 1,
+          "ModeName": "A_phsA"
+        },
+        {
+          "RtdbNo": 402,
+          "Desc": "设备[10]-B相电流-实时库号[402]",
+          "DataType": 1,
+          "ModeName": "A_phsB"
+        },
+        {
+          "RtdbNo": 403,
+          "Desc": "设备[10]-C相电流-实时库号[403]",
+          "DataType": 1,
+          "ModeName": "A_phsC"
+        },
+        {
+          "RtdbNo": 404,
+          "Desc": "设备[10]-功率因数-实时库号[404]",
+          "DataType": 1,
+          "ModeName": "TotPF"
+        },
+        {
+          "RtdbNo": 405,
+          "Desc": "设备[10]-有功功率-实时库号[405]",
+          "DataType": 1,
+          "ModeName": "TotW"
+        },
+        {
+          "RtdbNo": 406,
+          "Desc": "设备[10]-视在功率-实时库号[406]",
+          "DataType": 1,
+          "ModeName": "TotVA"
+        },
+        {
+          "RtdbNo": 407,
+          "Desc": "设备[10]-月发电量-实时库号[407]",
+          "DataType": 1,
+          "ModeName": "MWh"
+        },
+        {
+          "RtdbNo": 408,
+          "Desc": "设备[10]-年发电量-实时库号[408]",
+          "DataType": 1,
+          "ModeName": "YWh"
+        },
+        {
+          "RtdbNo": 409,
+          "Desc": "设备[10]-总发电量-实时库号[409]",
+          "DataType": 1,
+          "ModeName": "TotWh"
+        },
+        {
+          "RtdbNo": 410,
+          "Desc": "设备[10]-日发电量-实时库号[410]",
+          "DataType": 1,
+          "ModeName": "DWh"
+        }
+      ]
+    },
+    {
+      "devNo": 11,
+      "linkNo": 6,
+      "port": "1",
+      "addr": "10",
+      "model": "EndTerminal",
+      "desc": "末端分支终端",
+      "datacount": 13,
+      "data": [
+        {
+          "RtdbNo": 414,
+          "Desc": "设备[11]-A相电压-实时库号[414]",
+          "DataType": 1,
+          "ModeName": "PhV_phsA"
+        },
+        {
+          "RtdbNo": 415,
+          "Desc": "设备[11]-B相电压-实时库号[415]",
+          "DataType": 1,
+          "ModeName": "PhV_phsB"
+        },
+        {
+          "RtdbNo": 416,
+          "Desc": "设备[11]-C相电压-实时库号[416]",
+          "DataType": 1,
+          "ModeName": "PhV_phsC"
+        },
+        {
+          "RtdbNo": 417,
+          "Desc": "设备[11]-A相电流-实时库号[417]",
+          "DataType": 1,
+          "ModeName": "A_phsA"
+        },
+        {
+          "RtdbNo": 418,
+          "Desc": "设备[11]-B相电流-实时库号[418]",
+          "DataType": 1,
+          "ModeName": "A_phsB"
+        },
+        {
+          "RtdbNo": 419,
+          "Desc": "设备[11]-C相电流-实时库号[419]",
+          "DataType": 1,
+          "ModeName": "A_phsC"
+        },
+        {
+          "RtdbNo": 420,
+          "Desc": "设备[11]-功率因数-实时库号[420]",
+          "DataType": 1,
+          "ModeName": "TotPF"
+        },
+        {
+          "RtdbNo": 421,
+          "Desc": "设备[11]-有功功率-实时库号[421]",
+          "DataType": 1,
+          "ModeName": "TotW"
+        },
+        {
+          "RtdbNo": 422,
+          "Desc": "设备[11]-视在功率-实时库号[422]",
+          "DataType": 1,
+          "ModeName": "TotVA"
+        },
+        {
+          "RtdbNo": 423,
+          "Desc": "设备[11]-月发电量-实时库号[423]",
+          "DataType": 1,
+          "ModeName": "MWh"
+        },
+        {
+          "RtdbNo": 424,
+          "Desc": "设备[11]-年发电量-实时库号[424]",
+          "DataType": 1,
+          "ModeName": "YWh"
+        },
+        {
+          "RtdbNo": 425,
+          "Desc": "设备[11]-总发电量-实时库号[425]",
+          "DataType": 1,
+          "ModeName": "TotWh"
+        },
+        {
+          "RtdbNo": 426,
+          "Desc": "设备[11]-日发电量-实时库号[426]",
+          "DataType": 1,
+          "ModeName": "DWh"
+        }
+      ]
+    },
+    {
+      "devNo": 12,
+      "linkNo": 6,
+      "port": "1",
+      "addr": "33",
+      "model": "EndTerminal",
+      "desc": "末端分支终端",
+      "datacount": 13,
+      "data": [
+        {
+          "RtdbNo": 430,
+          "Desc": "设备[12]-A相电压-实时库号[430]",
+          "DataType": 1,
+          "ModeName": "PhV_phsA"
+        },
+        {
+          "RtdbNo": 431,
+          "Desc": "设备[12]-B相电压-实时库号[431]",
+          "DataType": 1,
+          "ModeName": "PhV_phsB"
+        },
+        {
+          "RtdbNo": 432,
+          "Desc": "设备[12]-C相电压-实时库号[432]",
+          "DataType": 1,
+          "ModeName": "PhV_phsC"
+        },
+        {
+          "RtdbNo": 433,
+          "Desc": "设备[12]-A相电流-实时库号[433]",
+          "DataType": 1,
+          "ModeName": "A_phsA"
+        },
+        {
+          "RtdbNo": 434,
+          "Desc": "设备[12]-B相电流-实时库号[434]",
+          "DataType": 1,
+          "ModeName": "A_phsB"
+        },
+        {
+          "RtdbNo": 435,
+          "Desc": "设备[12]-C相电流-实时库号[435]",
+          "DataType": 1,
+          "ModeName": "A_phsC"
+        },
+        {
+          "RtdbNo": 436,
+          "Desc": "设备[12]-功率因数-实时库号[436]",
+          "DataType": 1,
+          "ModeName": "TotPF"
+        },
+        {
+          "RtdbNo": 437,
+          "Desc": "设备[12]-有功功率-实时库号[437]",
+          "DataType": 1,
+          "ModeName": "TotW"
+        },
+        {
+          "RtdbNo": 438,
+          "Desc": "设备[12]-视在功率-实时库号[438]",
+          "DataType": 1,
+          "ModeName": "TotVA"
+        },
+        {
+          "RtdbNo": 439,
+          "Desc": "设备[12]-月发电量-实时库号[439]",
+          "DataType": 1,
+          "ModeName": "MWh"
+        },
+        {
+          "RtdbNo": 440,
+          "Desc": "设备[12]-年发电量-实时库号[440]",
+          "DataType": 1,
+          "ModeName": "YWh"
+        },
+        {
+          "RtdbNo": 441,
+          "Desc": "设备[12]-总发电量-实时库号[441]",
+          "DataType": 1,
+          "ModeName": "TotWh"
+        },
+        {
+          "RtdbNo": 442,
+          "Desc": "设备[12]-日发电量-实时库号[442]",
           "DataType": 1,
           "ModeName": "DWh"
         }
