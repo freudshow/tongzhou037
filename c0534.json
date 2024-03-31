@@ -22,7 +22,7 @@
       "data": [
         {
           "RtdbNo": 238,
-          "Desc": "设备[0]-A相电压-实时库号[238]",
+          "Desc": "设备[0]村委会-A相电压-实时库号[238]",
           "DataType": 1,
           "ModeName": "PhV_phsA"
         },
@@ -111,7 +111,7 @@
       "data": [
         {
           "RtdbNo": 254,
-          "Desc": "设备[1]-A相电压-实时库号[254]",
+          "Desc": "设备[1]贾如山-A相电压-实时库号[254]",
           "DataType": 1,
           "ModeName": "PhV_phsA"
         },
@@ -200,7 +200,7 @@
       "data": [
         {
           "RtdbNo": 270,
-          "Desc": "设备[2]-A相电压-实时库号[270]",
+          "Desc": "设备[2] 贾海艳-A相电压-实时库号[270]",
           "DataType": 1,
           "ModeName": "PhV_phsA"
         },
@@ -378,7 +378,7 @@
       "data": [
         {
           "RtdbNo": 302,
-          "Desc": "设备[4]-A相电压-实时库号[302]",
+          "Desc": "设备[4]贾海-A相电压-实时库号[302]",
           "DataType": 1,
           "ModeName": "PhV_phsA"
         },
@@ -467,7 +467,7 @@
       "data": [
         {
           "RtdbNo": 318,
-          "Desc": "设备[5]-A相电压-实时库号[318]",
+          "Desc": "设备[5]村委会-A相电压-实时库号[318]",
           "DataType": 1,
           "ModeName": "PhV_phsA"
         },
@@ -556,7 +556,7 @@
       "data": [
         {
           "RtdbNo": 334,
-          "Desc": "设备[6]-A相电压-实时库号[334]",
+          "Desc": "设备[6]贾正芹-A相电压-实时库号[334]",
           "DataType": 1,
           "ModeName": "PhV_phsA"
         },
